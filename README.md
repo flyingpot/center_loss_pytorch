@@ -4,7 +4,7 @@
 
 This is an Pytorch implementation of center loss. Some codes are from the repository [MNIST_center_loss_pytorch](https://github.com/jxgu1016/MNIST_center_loss_pytorch).
 
-[Here](https://fanjingbo.com/pytorch/center-loss%E7%9A%84pytorch%E5%AE%9E%E7%8E%B0/) is an article about the code.
+[Here](https://fanjingbo.com/post/center_loss_pytorch/) is an article about the code.
 
 ## Usage
 
